@@ -1,4 +1,4 @@
-## Welcome to Tanishka Github Pages
+## Welcome to Tanishka's Github Pages
 
 You can use the [editor on GitHub](https://github.com/tanishkasinghal/read/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
